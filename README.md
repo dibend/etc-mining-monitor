@@ -1,7 +1,3 @@
-# etc-mining-monitor
-Ethereum Classic Mining Payment Monitoring Email Sending Script. 
-Got it! Here's the `README.md` with the example `config.py` included as part of the README, complete with placeholders for all the values.
-
 # Crypto Mining Payments Notification
 
 This project fetches crypto mining payment data, plots the payment amounts over time, and sends an email notification with the plot attached.
